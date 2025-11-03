@@ -1,0 +1,14 @@
+# Python Environment
+.venv/
+.mypy_cache/
+.pytest_cache/
+__pycache__/
+
+# Compiled Python files
+*.pyc
+*.pyd
+*.so
+
+# Generated Data and Output Files (Specific to this Lab)
+data/signal.csv
+output/
